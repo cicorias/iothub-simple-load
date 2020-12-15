@@ -1,0 +1,62 @@
+2020-12-15 14:52:50,931 producer_stress_async INFO     process status: running,process cpu usage percent: 0.0,process memory usage percent: 0.142
+2020-12-15 14:52:50,933 producer_stress_async INFO     Start monitoring process id:28068
+2020-12-15 14:52:55,941 producer_stress_async INFO     Stop monitoring process id:28068
+2020-12-15 14:55:09,617 producer_stress_sync INFO     process status: running,process cpu usage percent: 0.0,process memory usage percent: 0.141
+2020-12-15 14:55:09,618 producer_stress_sync INFO     Start monitoring process id:13248
+2020-12-15 14:55:14,625 producer_stress_sync INFO     Stop monitoring process id:13248
+2020-12-15 14:55:51,121 producer_stress_sync INFO     process status: running,process cpu usage percent: 0.0,process memory usage percent: 0.141
+2020-12-15 14:55:51,122 producer_stress_sync INFO     Start monitoring process id:16212
+2020-12-15 14:55:56,126 producer_stress_sync INFO     Stop monitoring process id:16212
+2020-12-15 14:56:21,564 producer_stress_sync INFO     process status: running,process cpu usage percent: 0.0,process memory usage percent: 0.141
+2020-12-15 14:56:21,565 producer_stress_sync INFO     Start monitoring process id:21872
+2020-12-15 14:56:26,660 producer_stress_sync INFO     process status: running,process cpu usage percent: 77.0,process memory usage percent: 0.157
+2020-12-15 14:56:31,710 producer_stress_sync INFO     process status: running,process cpu usage percent: 94.7,process memory usage percent: 0.156
+2020-12-15 14:56:36,760 producer_stress_sync INFO     process status: running,process cpu usage percent: 92.9,process memory usage percent: 0.158
+2020-12-15 14:56:41,810 producer_stress_sync INFO     process status: running,process cpu usage percent: 90.7,process memory usage percent: 0.158
+2020-12-15 14:56:46,867 producer_stress_sync INFO     process status: running,process cpu usage percent: 94.4,process memory usage percent: 0.158
+2020-12-15 14:56:51,917 producer_stress_sync INFO     process status: running,process cpu usage percent: 99.1,process memory usage percent: 0.156
+2020-12-15 14:56:56,969 producer_stress_sync INFO     process status: running,process cpu usage percent: 99.7,process memory usage percent: 0.153
+2020-12-15 14:57:01,995 producer_stress_sync INFO     process status: running,process cpu usage percent: 100.0,process memory usage percent: 0.158
+2020-12-15 14:57:07,057 producer_stress_sync INFO     process status: running,process cpu usage percent: 98.4,process memory usage percent: 0.156
+2020-12-15 14:57:12,097 producer_stress_sync INFO     process status: running,process cpu usage percent: 99.7,process memory usage percent: 0.156
+2020-12-15 14:57:17,147 producer_stress_sync INFO     process status: running,process cpu usage percent: 99.7,process memory usage percent: 0.156
+2020-12-15 14:57:22,225 producer_stress_sync INFO     process status: running,process cpu usage percent: 97.8,process memory usage percent: 0.156
+2020-12-15 14:57:27,258 producer_stress_sync INFO     process status: running,process cpu usage percent: 99.4,process memory usage percent: 0.158
+2020-12-15 14:57:32,289 producer_stress_sync INFO     process status: running,process cpu usage percent: 86.3,process memory usage percent: 0.158
+2020-12-15 14:57:37,323 producer_stress_sync INFO     process status: running,process cpu usage percent: 34.2,process memory usage percent: 0.158
+2020-12-15 14:57:42,349 producer_stress_sync INFO     process status: running,process cpu usage percent: 72.7,process memory usage percent: 0.158
+2020-12-15 14:57:47,377 producer_stress_sync INFO     process status: running,process cpu usage percent: 48.1,process memory usage percent: 0.158
+2020-12-15 14:57:52,404 producer_stress_sync INFO     process status: running,process cpu usage percent: 66.2,process memory usage percent: 0.158
+2020-12-15 14:57:57,431 producer_stress_sync INFO     process status: running,process cpu usage percent: 54.5,process memory usage percent: 0.158
+2020-12-15 14:58:02,464 producer_stress_sync INFO     process status: running,process cpu usage percent: 92.6,process memory usage percent: 0.158
+2020-12-15 14:58:07,491 producer_stress_sync INFO     process status: running,process cpu usage percent: 27.6,process memory usage percent: 0.156
+2020-12-15 14:58:12,548 producer_stress_sync INFO     process status: running,process cpu usage percent: 99.7,process memory usage percent: 0.158
+2020-12-15 14:58:17,582 producer_stress_sync INFO     process status: running,process cpu usage percent: 20.5,process memory usage percent: 0.156
+2020-12-15 14:58:22,605 producer_stress_sync INFO     process status: running,process cpu usage percent: 88.2,process memory usage percent: 0.158
+2020-12-15 14:58:27,637 producer_stress_sync INFO     process status: running,process cpu usage percent: 32.5,process memory usage percent: 0.156
+2020-12-15 14:58:32,696 producer_stress_sync INFO     process status: running,process cpu usage percent: 98.8,process memory usage percent: 0.158
+2020-12-15 14:58:37,734 producer_stress_sync INFO     process status: running,process cpu usage percent: 20.7,process memory usage percent: 0.156
+2020-12-15 14:58:42,784 producer_stress_sync INFO     process status: running,process cpu usage percent: 100.0,process memory usage percent: 0.158
+2020-12-15 14:58:47,813 producer_stress_sync INFO     process status: running,process cpu usage percent: 58.4,process memory usage percent: 0.158
+2020-12-15 14:58:52,851 producer_stress_sync INFO     process status: running,process cpu usage percent: 61.2,process memory usage percent: 0.157
+2020-12-15 14:58:57,877 producer_stress_sync INFO     process status: running,process cpu usage percent: 100.0,process memory usage percent: 0.158
+2020-12-15 14:59:02,897 producer_stress_sync INFO     process status: running,process cpu usage percent: 54.8,process memory usage percent: 0.158
+2020-12-15 14:59:07,950 producer_stress_sync INFO     process status: running,process cpu usage percent: 64.5,process memory usage percent: 0.156
+2020-12-15 14:59:12,992 producer_stress_sync INFO     process status: running,process cpu usage percent: 99.7,process memory usage percent: 0.158
+2020-12-15 14:59:18,018 producer_stress_sync INFO     Stop monitoring process id:21872
+2020-12-15 14:59:35,049 producer_stress_sync INFO     process status: running,process cpu usage percent: 0.0,process memory usage percent: 0.141
+2020-12-15 14:59:35,049 producer_stress_sync INFO     Start monitoring process id:28308
+2020-12-15 14:59:40,085 producer_stress_sync INFO     process status: running,process cpu usage percent: 77.0,process memory usage percent: 0.157
+2020-12-15 14:59:45,134 producer_stress_sync INFO     process status: running,process cpu usage percent: 79.9,process memory usage percent: 0.159
+2020-12-15 14:59:50,168 producer_stress_sync INFO     process status: running,process cpu usage percent: 40.1,process memory usage percent: 0.157
+2020-12-15 14:59:55,192 producer_stress_sync INFO     process status: running,process cpu usage percent: 69.9,process memory usage percent: 0.159
+2020-12-15 15:00:00,293 producer_stress_sync INFO     process status: running,process cpu usage percent: 50.3,process memory usage percent: 0.157
+2020-12-15 15:00:05,344 producer_stress_sync INFO     process status: running,process cpu usage percent: 100.0,process memory usage percent: 0.157
+2020-12-15 15:00:10,452 producer_stress_sync INFO     process status: running,process cpu usage percent: 98.5,process memory usage percent: 0.157
+2020-12-15 15:00:15,479 producer_stress_sync INFO     process status: running,process cpu usage percent: 51.4,process memory usage percent: 0.159
+2020-12-15 15:00:20,585 producer_stress_sync INFO     process status: running,process cpu usage percent: 68.2,process memory usage percent: 0.157
+2020-12-15 15:00:25,634 producer_stress_sync INFO     process status: running,process cpu usage percent: 100.0,process memory usage percent: 0.157
+2020-12-15 15:00:30,662 producer_stress_sync INFO     process status: running,process cpu usage percent: 52.8,process memory usage percent: 0.159
+2020-12-15 15:00:35,689 producer_stress_sync INFO     process status: running,process cpu usage percent: 67.7,process memory usage percent: 0.157
+2020-12-15 15:00:40,714 producer_stress_sync INFO     process status: running,process cpu usage percent: 40.5,process memory usage percent: 0.159
+2020-12-15 15:00:45,718 producer_stress_sync INFO     Stop monitoring process id:28308
